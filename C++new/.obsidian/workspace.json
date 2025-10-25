@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8271de707a536d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d45611dfcaa401c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f3a3ef33784016b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ООП.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ООП"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b37c2c730fa881f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "866e08f4bb919817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6a40e7aea667ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cd74c12a8d6641e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "шестна",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d69b0f54d1186ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ввод и вывод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ввод и вывод"
+            }
+          },
+          {
+            "id": "f67443fa5a664b13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8826c113c39b850",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e438bf0c1ff073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e31ef419862ca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cctype.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cctype"
+            }
+          },
+          {
+            "id": "ef1722510ac55ea9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cctype.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cctype"
+            }
+          },
+          {
+            "id": "ac97b543e6fb1735",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fff8039ab14060d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cctype.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cctype"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5f3a3ef33784016b",
+  "lastOpenFiles": [
+    "Дополнительные сведения о функциях.md",
+    "Шаблоны функций.md",
+    "Классы.md",
+    "Untitled.base",
+    "Классы и динамическое выделение памяти.md",
+    "Модели памяти и пространства имён.md",
+    "Спецификаторы и классификаторы.md",
+    "Побочные эффекты и точки следования.md",
+    "Ввод и вывод.md",
+    "Циклы и выражения отношений.md",
+    "Квалификатор const.md",
+    "Составные типы данных.md",
+    "Объединения.md",
+    "Строки.md",
+    "Массивы.md",
+    "Базовые типы данных.md",
+    "Функции и связывание.md",
+    "Untitled 3.base",
+    "Целочисленные литералы.md",
+    "Вывод.md",
+    "cctype.md",
+    "C.md",
+    "Указатели.md",
+    "Псевдонимы типов.md",
+    "Макросы.md",
+    "ctime.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "constexpr !Не готово!.md",
+    "Оператор switch.md",
+    "Untitled",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
