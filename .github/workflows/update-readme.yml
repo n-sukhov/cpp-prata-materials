@@ -1,0 +1,25 @@
+name: Update README with date
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update date in README
+        run: |
+          DATE=$(date +"%Y-%m-%d")
+          sed -i "s|<!--DATE-->|$DATE|g" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -am "Update README date to $DATE" || exit 0
+          git push
