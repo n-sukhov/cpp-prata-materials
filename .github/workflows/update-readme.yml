@@ -18,7 +18,7 @@ jobs:
       - name: Update date in README
         run: |
           DATE=$(date +"%Y-%m-%d")
-          sed -i "s|\(<!--DATE-->\)[^*]*|\1 $DATE|g" README.md
+          sed -i "s|<!--DATE-->.*|<!--DATE--> $DATE|g" README.md
 
       - name: Commit and push
         run: |
