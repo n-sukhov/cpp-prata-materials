@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,7 +18,7 @@ jobs:
       - name: Update date in README
         run: |
           DATE=$(date +"%Y-%m-%d")
-          sed -i "s|<!--DATE-->|$DATE|g" README.md
+          sed -i "s|<!--DATE-->.*|<!--DATE--> $DATE|g" README.md
 
       - name: Commit and push
         run: |
