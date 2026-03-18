@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d45611dfcaa401c",
+        "id": "7928b1145dcc6519",
         "type": "tabs",
         "children": [
           {
-            "id": "5f3a3ef33784016b",
+            "id": "d69b0f54d1186ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структуры.md",
+                "file": "Наследование классов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структуры"
+              "title": "Наследование классов"
             }
           }
         ]
@@ -34,6 +34,16 @@
         "id": "866e08f4bb919817",
         "type": "tabs",
         "children": [
+          {
+            "id": "d5336e619701cadb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
           {
             "id": "8b6a40e7aea667ff",
             "type": "leaf",
@@ -62,20 +72,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "d69b0f54d1186ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ввод и вывод.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ввод и вывод"
             }
           },
           {
@@ -179,38 +175,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f3a3ef33784016b",
+  "active": "8b6a40e7aea667ff",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Наследование классов.md",
+    "Untitled 1.base",
+    "Структуры.md",
+    "Строки.md",
+    "Схемы хранения и динамическое выделение памяти.md",
+    "Указатели.md",
+    "Функции.md",
+    "Конструкторы и деструкторы.md",
+    "Вывод.md",
+    "Базовые типы данных.md",
+    "while.md",
+    "int&unsigned int.md",
+    "ctime.md",
+    "cctype.md",
+    "bool.md",
+    "Untitled 2.base",
+    "Ввод и вывод.md",
     "Объединения.md",
     "Перечисления.md",
     "Область видимости класса.md",
     "Составные типы данных.md",
     "for.md",
-    "while.md",
-    "Функции.md",
-    "Наследование классов.md",
     "Совместимость типов указателей и ссылок.md",
     "Полиморфное открытое наследование.md",
     "ООП.md",
     "Шаблоны функций.md",
     "Функции и связывание.md",
-    "Классы и динамическое выделение памяти.md",
-    "Ввод.md",
-    "int&unsigned int.md",
-    "long&unsigned long.md",
-    "short&unsigned short.md",
-    "Аргументы по умолчанию.md",
-    "C.md",
-    "Дополнительные сведения о функциях.md",
-    "Классы.md",
-    "Untitled.base",
-    "Модели памяти и пространства имён.md",
-    "Спецификаторы и классификаторы.md",
-    "Побочные эффекты и точки следования.md",
-    "Ввод и вывод.md",
     "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled",
     "Untitled.canvas",
     "Untitled 2.canvas",
