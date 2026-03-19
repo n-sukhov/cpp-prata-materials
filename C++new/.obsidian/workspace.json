@@ -8,20 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d69b0f54d1186ebc",
+            "id": "de9228ecbba8ef55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наследование классов.md",
+                "file": "C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Наследование классов"
+              "title": "C++"
+            }
+          },
+          {
+            "id": "fa067e1dbaa19b62",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,45 +177,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b6a40e7aea667ff",
+  "active": "fa067e1dbaa19b62",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Наследование классов.md",
-    "Untitled 1.base",
+    "C++.md",
+    "Инициализация и объявление.md",
+    "Побочные эффекты и точки следования.md",
+    "Целочисленные литералы.md",
+    "Функции.md",
+    "Базовые типы данных.md",
+    "Составные типы данных.md",
+    "Дополнительные сведения о функциях.md",
+    "Классы.md",
+    "ООП.md",
+    "Работа с классами.md",
+    "Рекурсия.md",
+    "Специальные функции члены.md",
+    "Список инициализаторов членов.md",
+    "Статические функции-члены класса.md",
     "Структуры.md",
+    "Указатель this.md",
+    "Совместимость типов указателей и ссылок.md",
+    "Полиморфное открытое наследование.md",
+    "Наследование классов.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "Строки.md",
     "Схемы хранения и динамическое выделение памяти.md",
     "Указатели.md",
-    "Функции.md",
     "Конструкторы и деструкторы.md",
     "Вывод.md",
-    "Базовые типы данных.md",
     "while.md",
-    "int&unsigned int.md",
-    "ctime.md",
-    "cctype.md",
-    "bool.md",
     "Untitled 2.base",
-    "Ввод и вывод.md",
-    "Объединения.md",
-    "Перечисления.md",
-    "Область видимости класса.md",
-    "Составные типы данных.md",
-    "for.md",
-    "Совместимость типов указателей и ссылок.md",
-    "Полиморфное открытое наследование.md",
-    "ООП.md",
-    "Шаблоны функций.md",
-    "Функции и связывание.md",
     "Untitled 3.base",
     "Untitled",
     "Untitled.canvas",
