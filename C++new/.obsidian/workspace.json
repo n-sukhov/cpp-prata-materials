@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7928b1145dcc6519",
+        "id": "0f99346c356b92e6",
         "type": "tabs",
         "children": [
           {
-            "id": "de9228ecbba8ef55",
+            "id": "2503319f23367869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "C++.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "C++"
             }
-          },
-          {
-            "id": "fa067e1dbaa19b62",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -100,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b8826c113c39b850",
@@ -186,36 +176,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa067e1dbaa19b62",
+  "active": "2503319f23367869",
   "lastOpenFiles": [
+    "Арифметические операции.md",
     "C++.md",
+    "Вывод.md",
     "Инициализация и объявление.md",
+    "Указатели.md",
+    "Конструкторы и деструкторы.md",
+    "Ввод и вывод.md",
+    "wchar_t.md",
+    "Дружественные функции.md",
+    "cctype.md",
+    "Классы.md",
+    "ООП.md",
+    "Хвостовой возвращаемый тип C++11.md",
+    "Наследование классов.md",
+    "Переменные.md",
+    "Untitled.base",
     "Побочные эффекты и точки следования.md",
     "Целочисленные литералы.md",
     "Функции.md",
     "Базовые типы данных.md",
     "Составные типы данных.md",
     "Дополнительные сведения о функциях.md",
-    "Классы.md",
-    "ООП.md",
     "Работа с классами.md",
     "Рекурсия.md",
     "Специальные функции члены.md",
     "Список инициализаторов членов.md",
     "Статические функции-члены класса.md",
-    "Структуры.md",
-    "Указатель this.md",
-    "Совместимость типов указателей и ссылок.md",
-    "Полиморфное открытое наследование.md",
-    "Наследование классов.md",
-    "Untitled.base",
     "Untitled 1.base",
-    "Строки.md",
-    "Схемы хранения и динамическое выделение памяти.md",
-    "Указатели.md",
-    "Конструкторы и деструкторы.md",
-    "Вывод.md",
-    "while.md",
     "Untitled 2.base",
     "Untitled 3.base",
     "Untitled",
